@@ -14,11 +14,12 @@ A simple desktop calculator that converts left/right and top/bottom pixel measur
 - Simple desktop interface
 - Clear button to reset all values
 
-## Windows download
+## Windows Download
 
 A compiled Windows version is available in the Releases section of this repository.
 
 ### How to use the EXE
+
 1. Go to Releases
 2. Download the latest ZIP file
 3. Extract the ZIP
