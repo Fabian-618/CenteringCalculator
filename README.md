@@ -16,13 +16,15 @@ A simple desktop calculator that converts left/right and top/bottom pixel measur
 
 ## Windows download
 
-A compiled Windows version is available in the **Releases** section of this repository.
+A compiled Windows version is available in the Releases section of this repository.
 
 ### How to use the EXE
-1. Go to **Releases**
-2. Download the latest `.zip`
-3. Extract the `.zip`
-4. Run the `.exe`
+1. Go to Releases
+2. Download the latest ZIP file
+3. Extract the ZIP
+4. Run the EXE
+
+Because the app is unsigned, Windows may show a warning before first launch. The public source code in this repository is available for transparency.
 
 ## How to run from source
 
