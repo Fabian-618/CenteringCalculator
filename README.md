@@ -1,3 +1,7 @@
+## Screenshot
+
+![Centering Calculator Screenshot](screenshot.png)
+
 # Centering Calculator
 
 A simple desktop calculator that converts left/right and top/bottom pixel measurements into percentage splits for centering. Built with Python and Tkinter, it updates results automatically as values are entered.
