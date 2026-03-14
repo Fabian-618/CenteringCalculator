@@ -19,4 +19,4 @@ A simple desktop calculator that converts left/right and top/bottom pixel measur
 Make sure Python 3 is installed, then run:
 
 ```bash
-python centering_calculator_windows_v2.py
+python centering_calculator_v1.0.0.py
